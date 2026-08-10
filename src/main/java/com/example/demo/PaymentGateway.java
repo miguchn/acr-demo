@@ -5,7 +5,6 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 
 /**
- * 支付网关（演示代码）。
  */
 public class PaymentGateway {
 
